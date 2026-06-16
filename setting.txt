@@ -1,1 +1,1 @@
-diffictly=noraml 
+diffictly=balanced 
